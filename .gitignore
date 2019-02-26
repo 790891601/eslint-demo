@@ -1,0 +1,4 @@
+## 忽略node_modules等文件
+build/
+node_modules
+package-lock.json
